@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
 <h1 align="center">Hi there, I'm Jayesh</h1>
 <h3 align="center">Senior DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Splunk | Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
-<img align="right" alt="Coding" width="400" src="https://icons8.com/illustrations/illustration/business-3d-young-man-standing-with-laptop" >
+<img align="right" alt="Coding" width="400" src="https://icons8.com/mega-creator/illustration/64882cfd9e324700131409d3" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JayeshInamdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="JayeshInamdar" /> </p>
 
