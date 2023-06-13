@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, I'm Jayesh</h1>
 <h3 align="center">Senior DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Splunk | Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 
-<img align="right" alt="Coding" width="600" src="https://iconscout.com/lottie/working-on-laptop-5019737" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JayeshInamdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="JayeshInamdar" /> </p>
 
