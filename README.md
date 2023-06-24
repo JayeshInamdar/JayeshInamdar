@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently **learning React, Kubernetes**
+- 🔭 I’m currently **learning Golang, Kubernetes**
 - 📝 I regularly write articles on **Various DevOps Concepts**
 
 - 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
